@@ -26,6 +26,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: Data update
         run: |
+          sudo chmod a+w token.pickle
           python crawler.py
           python data_processing.py
       - name: Commit data files
