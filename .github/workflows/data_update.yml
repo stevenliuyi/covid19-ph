@@ -1,0 +1,42 @@
+name: Update Data
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 12 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Unlock secrets
+        uses: sliteteam/github-action-git-crypt-unlock@1.0.2
+        env:
+          GIT_CRYPT_KEY: ${{ secrets.GIT_CRYPT_KEY }}
+      - name: Setup Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: "3.7"
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: Data update
+        run: |
+          python crawler.py
+          python data_processing.py
+      - name: Commit data files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git status
+          git add .
+          git commit -m "Update Haiti/Venezuela Data" || echo "Nothing to commit"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          repository: stevenliuyi/covid19-ph
+          github_token: ${{ secrets.GITHUB_TOKEN }}
