@@ -18,7 +18,7 @@ jobs:
         run: sudo apt-get install git-crypt
       - name: Unlock secrets
         run: |
-          "${{ secrets.GIT_CRYPT_KEY }}" | base64 -d > ./git-crypt-key
+          echo "${{ secrets.GIT_CRYPT_KEY }}" | base64 -d > ./git-crypt-key
           git-crypt unlock ./git-crypt-key
       - name: Setup Python
         uses: actions/setup-python@v1
