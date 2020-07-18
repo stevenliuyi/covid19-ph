@@ -1,0 +1,74 @@
+region,province,confirmed,deaths,recovered
+BARMM,Lanao Del Sur,9,0,0
+BARMM,Maguindanao,1,0,0
+BARMM,Sulu,1,0,0
+CAR,Abra,3,0,0
+CAR,Benguet,38,0,0
+CAR,Ifugao,1,0,0
+CARAGA,Agusan Del Norte,3,0,0
+NCR,Bulacan,1,0,0
+NCR,For Validation,917,0,0
+NCR,NCR,5502,0,0
+Region I: Ilocos Region,For Validation,1,0,0
+Region I: Ilocos Region,Ilocos Norte,4,0,0
+Region I: Ilocos Region,Ilocos Sur,1,0,0
+Region I: Ilocos Region,La Union,17,0,0
+Region I: Ilocos Region,Pangasinan,40,0,0
+Region II: Cagayan Valley,Cagayan,17,0,0
+Region II: Cagayan Valley,For Validation,1,0,0
+Region II: Cagayan Valley,Isabela,9,0,0
+Region II: Cagayan Valley,Nueva Vizcaya,7,0,0
+Region III: Central Luzon,Bataan,81,0,0
+Region III: Central Luzon,Bulacan,122,0,0
+Region III: Central Luzon,For Validation,12,0,0
+Region III: Central Luzon,NCR,1,0,0
+Region III: Central Luzon,Nueva Ecija,49,0,0
+Region III: Central Luzon,Pampanga,63,0,0
+Region III: Central Luzon,Tarlac,29,0,0
+Region III: Central Luzon,Zambales,26,0,0
+Region IV-A: CALABARZON,Batangas,106,0,0
+Region IV-A: CALABARZON,Cavite,282,0,0
+Region IV-A: CALABARZON,For Validation,34,0,0
+Region IV-A: CALABARZON,Laguna,354,0,0
+Region IV-A: CALABARZON,NCR,1,0,0
+Region IV-A: CALABARZON,Quezon,64,0,0
+Region IV-A: CALABARZON,Rizal,389,0,0
+Region IV-B: MIMAROPA,For Validation,2,0,0
+Region IV-B: MIMAROPA,Marinduque,6,0,0
+Region IV-B: MIMAROPA,Occidental Mindoro,4,0,0
+Region IV-B: MIMAROPA,Oriental Mindoro,9,0,0
+Region IV-B: MIMAROPA,Palawan,2,0,0
+Region IV-B: MIMAROPA,Romblon,1,0,0
+Region IX: Zamboanga Peninsula,For Validation,3,0,0
+Region IX: Zamboanga Peninsula,Zamboanga Del Sur,46,0,0
+Region V: Bicol Region,Albay,35,0,0
+Region V: Bicol Region,Camarines Sur,12,0,0
+Region V: Bicol Region,Catanduanes,1,0,0
+Region V: Bicol Region,For Validation,6,0,0
+Region VI: Western Visayas,Aklan,7,0,0
+Region VI: Western Visayas,Antique,12,0,0
+Region VI: Western Visayas,Capiz,5,0,0
+Region VI: Western Visayas,For Validation,5,0,0
+Region VI: Western Visayas,Guimaras,1,0,0
+Region VI: Western Visayas,Iloilo,34,0,0
+Region VI: Western Visayas,Negros Occidental,15,0,0
+Region VII: Central Visayas,Bohol,2,0,0
+Region VII: Central Visayas,Cebu,1067,0,0
+Region VII: Central Visayas,For Validation,6,0,0
+Region VII: Central Visayas,Negros Oriental,7,0,0
+Region VIII: Eastern Visayas,Leyte,2,0,0
+Region VIII: Eastern Visayas,Northern Samar,1,0,0
+Region VIII: Eastern Visayas,Samar (Western Samar),11,0,0
+Region X: Northern Mindanao,Bukidnon,1,0,0
+Region X: Northern Mindanao,Camiguin,1,0,0
+Region X: Northern Mindanao,Lanao Del Norte,5,0,0
+Region X: Northern Mindanao,Misamis Occidental,4,0,0
+Region X: Northern Mindanao,Misamis Oriental,4,0,0
+Region XI: Davao Region,Davao De Oro,2,0,0
+Region XI: Davao Region,Davao Del Norte,12,0,0
+Region XI: Davao Region,Davao Del Sur,127,0,0
+Region XI: Davao Region,Davao Oriental,3,0,0
+Region XII: SOCCSKSARGEN,City Of Cotabato (Not A Province),6,0,0
+Region XII: SOCCSKSARGEN,Cotabato (North Cotabato),3,0,0
+Region XII: SOCCSKSARGEN,South Cotabato,4,0,0
+Region XII: SOCCSKSARGEN,Sultan Kudarat,3,0,0

@@ -1,0 +1,59 @@
+region,province,confirmed,deaths,recovered
+1,Ilocos Norte,3,0,0
+1,Ilocos Sur,1,0,0
+1,La Union,14,0,0
+1,Pangasinan,35,0,0
+10,Bukidnon,1,0,0
+10,Camiguin,1,0,0
+10,Lanao del Norte,5,0,0
+10,Misamis Occidental,2,0,0
+10,Misamis Oriental,3,0,0
+11,Compostela Valley,2,0,0
+11,Davao Oriental,3,0,0
+11,Davao del Norte,11,0,0
+11,Davao del Sur,115,0,0
+12,Cotabato (North Cotabato),3,0,0
+12,Cotabato City (not a province),6,0,0
+12,South Cotabato,4,0,0
+12,Sultan Kudarat,4,0,0
+2,Cagayan,15,0,0
+2,Isabela,10,0,0
+2,Nueva Vizcaya,6,0,0
+3,Bataan,77,0,0
+3,Bulacan,122,0,0
+3,Nueva Ecija,50,0,0
+3,Pampanga,61,0,0
+3,Tarlac,29,0,0
+3,Zambales,26,0,0
+4A,Batangas,87,0,0
+4A,Cavite,254,0,0
+4A,Laguna,316,0,0
+4A,Quezon,57,0,0
+4A,Rizal,370,0,0
+4B,Marinduque,6,0,0
+4B,Occidental Mindoro,3,0,0
+4B,Oriental Mindoro,7,0,0
+4B,Palawan,2,0,0
+4B,Romblon,1,0,0
+5,Albay,28,0,0
+5,Camarines Sur,11,0,0
+5,Catanduanes,2,0,0
+6,Aklan,7,0,0
+6,Antique,10,0,0
+6,Capiz,5,0,0
+6,Iloilo,29,0,0
+6,Negros Occidental,15,0,0
+7,Bohol,1,0,0
+7,Cebu,530,0,0
+7,Negros Oriental,7,0,0
+8,Leyte,3,0,0
+8,Northern Samar,1,0,0
+8,Samar (Western Samar),10,0,0
+9,Zamboanga del Sur,13,0,0
+BARMM,Lanao del Sur,9,0,0
+BARMM,Maguindanao,1,0,0
+CAR,Abra,3,0,0
+CAR,Benguet,38,0,0
+CAR,Ifugao,1,0,0
+CARAGA,Agusan del Norte,3,0,0
+NCR,NCR,4805,0,0

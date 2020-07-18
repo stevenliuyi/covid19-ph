@@ -1,0 +1,59 @@
+region,province,confirmed,deaths,recovered
+Abra,Abra,3,0,0
+Agusan del Norte,Agusan del Norte,3,0,0
+Aklan,Aklan,7,0,0
+Albay,Albay,25,0,0
+Antique,Antique,8,0,0
+Bataan,Bataan,77,0,0
+Batangas,Batangas,86,0,0
+Benguet,Benguet,31,0,0
+Bohol,Bohol,1,0,0
+Bukidnon,Bukidnon,1,0,0
+Bulacan,Bulacan,115,0,0
+Cagayan,Cagayan,14,0,0
+Camarines Sur,Camarines Sur,10,0,0
+Camiguin,Camiguin,1,0,0
+Capiz,Capiz,5,0,0
+Catanduanes,Catanduanes,2,0,0
+Cavite,Cavite,249,0,0
+Cebu,Cebu,393,0,0
+Compostela Valley,Compostela Valley,2,0,0
+Cotabato (North Cotabato),Cotabato (North Cotabato),3,0,0
+Cotabato City (not a province),Cotabato City (not a province),6,0,0
+Davao Oriental,Davao Oriental,3,0,0
+Davao del Norte,Davao del Norte,11,0,0
+Davao del Sur,Davao del Sur,106,0,0
+Ifugao,Ifugao,1,0,0
+Ilocos Norte,Ilocos Norte,4,0,0
+Ilocos Sur,Ilocos Sur,1,0,0
+Iloilo,Iloilo,27,0,0
+Isabela,Isabela,9,0,0
+La Union,La Union,13,0,0
+Laguna,Laguna,310,0,0
+Lanao del Norte,Lanao del Norte,5,0,0
+Lanao del Sur,Lanao del Sur,9,0,0
+Leyte,Leyte,3,0,0
+Maguindanao,Maguindanao,1,0,0
+Marinduque,Marinduque,6,0,0
+Misamis Occidental,Misamis Occidental,2,0,0
+Misamis Oriental,Misamis Oriental,3,0,0
+NCR,NCR,4520,0,0
+Negros Occidental,Negros Occidental,15,0,0
+Negros Oriental,Negros Oriental,7,0,0
+Northern Samar,Northern Samar,1,0,0
+Nueva Ecija,Nueva Ecija,50,0,0
+Nueva Vizcaya,Nueva Vizcaya,7,0,0
+Occidental Mindoro,Occidental Mindoro,3,0,0
+Oriental Mindoro,Oriental Mindoro,7,0,0
+Palawan,Palawan,2,0,0
+Pampanga,Pampanga,61,0,0
+Pangasinan,Pangasinan,33,0,0
+Quezon,Quezon,57,0,0
+Rizal,Rizal,355,0,0
+Romblon,Romblon,1,0,0
+Samar (Western Samar),Samar (Western Samar),4,0,0
+South Cotabato,South Cotabato,4,0,0
+Sultan Kudarat,Sultan Kudarat,4,0,0
+Tarlac,Tarlac,30,0,0
+Zambales,Zambales,26,0,0
+Zamboanga del Sur,Zamboanga del Sur,11,0,0

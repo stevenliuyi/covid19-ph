@@ -1,0 +1,67 @@
+region,province,confirmed,deaths,recovered
+BARMM,LANAO DEL SUR,9,0,0
+BARMM,MAGUINDANAO,1,0,0
+BARMM,SULU,1,0,0
+CAR,ABRA,3,0,0
+CAR,APAYAO,2,0,0
+CAR,BENGUET,47,0,0
+CAR,IFUGAO,2,0,0
+CARAGA,AGUSAN DEL NORTE,4,0,0
+CARAGA,SURIGAO DEL NORTE,1,0,0
+NCR,METRO MANILA,9817,0,0
+Region I: Ilocos Region,ILOCOS NORTE,4,0,0
+Region I: Ilocos Region,ILOCOS SUR,2,0,0
+Region I: Ilocos Region,LA UNION,18,0,0
+Region I: Ilocos Region,PANGASINAN,43,0,0
+Region II: Cagayan Valley,CAGAYAN,19,0,0
+Region II: Cagayan Valley,ISABELA,11,0,0
+Region II: Cagayan Valley,NUEVA VIZCAYA,8,0,0
+Region III: Central Luzon,BATAAN,137,0,0
+Region III: Central Luzon,BULACAN,232,0,0
+Region III: Central Luzon,NUEVA ECIJA,62,0,0
+Region III: Central Luzon,PAMPANGA,93,0,0
+Region III: Central Luzon,TARLAC PROVINCE,37,0,0
+Region III: Central Luzon,ZAMBALES,39,0,0
+Region IV-A: CALABARZON,BATANGAS,177,0,0
+Region IV-A: CALABARZON,CAVITE,381,0,0
+Region IV-A: CALABARZON,LAGUNA,465,0,0
+Region IV-A: CALABARZON,QUEZON,86,0,0
+Region IV-A: CALABARZON,RIZAL,543,0,0
+Region IV-B: MIMAROPA,MARINDUQUE,7,0,0
+Region IV-B: MIMAROPA,OCCIDENTAL MINDORO,33,0,0
+Region IV-B: MIMAROPA,ORIENTAL MINDORO,20,0,0
+Region IV-B: MIMAROPA,PALAWAN,2,0,0
+Region IV-B: MIMAROPA,ROMBLON,3,0,0
+Region IX: Zamboanga Peninsula,ZAMBOANGA DEL NORTE,1,0,0
+Region IX: Zamboanga Peninsula,ZAMBOANGA DEL SUR,137,0,0
+Region V: Bicol Region,ALBAY,54,0,0
+Region V: Bicol Region,CAMARINES NORTE,4,0,0
+Region V: Bicol Region,CAMARINES SUR,15,0,0
+Region V: Bicol Region,CATANDUANES,1,0,0
+Region V: Bicol Region,SORSOGON,1,0,0
+Region VI: Western Visayas,AKLAN,8,0,0
+Region VI: Western Visayas,ANTIQUE,19,0,0
+Region VI: Western Visayas,CAPIZ,6,0,0
+Region VI: Western Visayas,ILOILO PROVINCE,54,0,0
+Region VI: Western Visayas,NEGROS OCCIDENTAL,29,0,0
+Region VII: Central Visayas,BOHOL,6,0,0
+Region VII: Central Visayas,CEBU PROVINCE,2722,0,0
+Region VII: Central Visayas,NEGROS ORIENTAL,10,0,0
+Region VIII: Eastern Visayas,LEYTE,10,0,0
+Region VIII: Eastern Visayas,NORTHERN SAMAR,1,0,0
+Region VIII: Eastern Visayas,SAMAR,25,0,0
+Region X: Northern Mindanao,BUKIDNON,4,0,0
+Region X: Northern Mindanao,CAMIGUIN,1,0,0
+Region X: Northern Mindanao,LANAO DEL NORTE,7,0,0
+Region X: Northern Mindanao,MISAMIS OCCIDENTAL,5,0,0
+Region X: Northern Mindanao,MISAMIS ORIENTAL,16,0,0
+Region XI: Davao Region,COMPOSTELA VALLEY,3,0,0
+Region XI: Davao Region,DAVAO DEL NORTE,10,0,0
+Region XI: Davao Region,DAVAO DEL SUR,282,0,0
+Region XI: Davao Region,DAVAO OCCIDENTAL,2,0,0
+Region XI: Davao Region,DAVAO ORIENTAL,3,0,0
+Region XII: SOCCSKSARGEN,COTABATO,15,0,0
+Region XII: SOCCSKSARGEN,SARANGANI,1,0,0
+Region XII: SOCCSKSARGEN,SOUTH COTABATO,7,0,0
+Region XII: SOCCSKSARGEN,SULTAN KUDARAT,4,0,0
+Repatriate,GUIMARAS,1,0,0
