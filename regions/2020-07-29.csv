@@ -1,0 +1,19 @@
+region,confirmed,deaths,recovered
+BARMM,365,5,103
+CAR,207,2,103
+CARAGA,147,2,61
+NCR,46687,1005,14406
+REPATRIATE,3101,5,1404
+Region I: Ilocos Region,325,15,124
+Region II: Cagayan Valley,257,1,123
+Region III: Central Luzon,2064,55,746
+Region IV-A: CALABARZON,7661,161,1968
+Region IV-B: MIMAROPA,241,5,118
+Region IX: Zamboanga Peninsula,665,15,262
+Region V: Bicol Region,427,7,145
+Region VI: Western Visayas,1185,15,401
+Region VII: Central Visayas,13782,603,4644
+Region VIII: Eastern Visayas,768,2,582
+Region X: Northern Mindanao,545,11,91
+Region XI: Davao Region,1158,46,600
+Region XII: SOCCSKSARGEN,274,3,81
